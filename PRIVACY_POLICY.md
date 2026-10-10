@@ -1,0 +1,21 @@
+# xGrab Privacy Policy
+
+**Last updated:** October 9, 2026
+
+xGrab is a Chrome extension that allows users to download images from X (x.com / twitter.com).
+
+## Data Collection
+
+xGrab does not collect, sell, or transmit personal information to the developer, nor does the developer want your yucky information. The extension accesses image content on X solely to provide its image downloading functionality.
+
+## Data Storage and Sharing
+
+xGrab does not send user data to external servers or share personal information with third parties. Chrome's local storage may be used to facilitate communication between extension components.
+
+## Downloads
+
+Images are downloaded at the user's request using the Chrome Downloads API.
+
+## Changes to This Policy
+
+This privacy policy may be updated as the extension evolves. Updates will be published at the same URL.
